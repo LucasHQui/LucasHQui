@@ -46,9 +46,6 @@ With a solid background in Database Technology 🖥️, I am constantly seeking 
 ## Connect with me  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-henrique-quirino-5b2392302/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/https://flowcv.com/resume/eqsdvn04f8" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
   
 
@@ -71,6 +68,18 @@ https://flowcv.com/resume/eqsdvn04f8
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

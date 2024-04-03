@@ -51,8 +51,6 @@ With a solid background in Database Technology 🖥️, I am constantly seeking 
 
 <br/>  
 
-
-## Github Stats  
   
 
 <br/>  
